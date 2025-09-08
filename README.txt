@@ -1,3 +1,5 @@
+Face detection and recognition GUI base project adding an external camera build on Python 
+
 Connect Camera(i use my android phone's camera via Ipwebcam android app to which acted as server) as an external device to 
 //just change your server URL in face_detection.py  
 
