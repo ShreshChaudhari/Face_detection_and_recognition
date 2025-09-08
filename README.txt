@@ -12,8 +12,10 @@ thinkter,
 numpy,
 CV2,
 PIL,
+sqlite3(database),
 haarcascade xml file
-lbpcascade_profile face xml file
+lbpcascade_profile face xml file,
+
 
 
 //how to run
